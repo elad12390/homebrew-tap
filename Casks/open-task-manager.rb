@@ -1,6 +1,6 @@
 cask "open-task-manager" do
-  version "0.1.0"
-  sha256 "b16f4985a61e68e44a141ddb521406434996985c0303b22040612dd2d80fc13a"
+  version "0.1.1"
+  sha256 "76ec28f332b571bdab7d5936232e34ec06bf48a236aa18505e091bd65136b722"
 
   url "https://github.com/elad12390/open-task-manager/releases/download/v#{version}/OpenTaskManager-#{version}.dmg"
   name "Open Task Manager"
